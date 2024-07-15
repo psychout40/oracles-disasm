@@ -68,3 +68,5 @@
 
 ; Game-specific data directory location
 .define GAME_DATA_DIR "data/" GAME "/"
+
+.redefine HACK_DISABLE_INTRO_LOCKS 1
